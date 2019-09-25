@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-no-data-js","path":"/page-with-context/","webpackCompilationHash":"9285ea9bd8d5a330a1aa","result":{"pageContext":{"isCreatedByStatefulCreatePages":false,"title":"we dont need to stinkin graphql","content":"<p>this is page content</p><p>no graphql required</p>"}}}
